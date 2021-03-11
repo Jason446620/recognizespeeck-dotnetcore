@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgWyEmbRsGzAmldRM+0MdBeeolo0xfpbu1uxyf3WPLVqVb96nZGeIkev2Qy9DQCEh/Ry4C0qgLLcATzvX2O4NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\vscodeConsole\\vscodeConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.15.0\\microsoft.cognitiveservices.speech.1.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
